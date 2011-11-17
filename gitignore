@@ -89,6 +89,8 @@
 /administrator/language/en-GB/en-GB.mod_login.ini
 /administrator/language/en-GB/en-GB.mod_login.sys.ini
 /administrator/language/en-GB/en-GB.mod_menu.ini
+/administrator/language/en-GB/en-GB.mod_multilangstatus.ini
+/administrator/language/en-GB/en-GB.mod_multilangstatus.sys.ini
 /administrator/language/en-GB/en-GB.mod_menu.sys.ini
 /administrator/language/en-GB/en-GB.mod_popular.ini
 /administrator/language/en-GB/en-GB.mod_popular.sys.ini
@@ -184,6 +186,7 @@
 /administrator/modules/
 /administrator/templates/
 /cache/
+/cli/index.html
 /components/com_banners/
 /components/com_contact/
 /components/com_content/
@@ -219,6 +222,11 @@ joomla.xml
 /language/en-GB/en-GB.files_joomla.sys.ini
 /language/en-GB/en-GB.ini
 /language/en-GB/en-GB.lib_joomla.ini
+/language/en-GB/en-GB.lib_joomla.sys.ini
+/language/en-GB/en-GB.lib_phpmailer.sys.ini
+/language/en-GB/en-GB.lib_phputf8.sys.ini
+/language/en-GB/en-GB.lib_simplepie.sys.ini
+/language/en-GB/en-GB.pkg_joomla.sys.ini
 /language/en-GB/en-GB.localise.php
 /language/en-GB/en-GB.mod_articles_archive.ini
 /language/en-GB/en-GB.mod_articles_archive.sys.ini
