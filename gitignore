@@ -199,6 +199,7 @@
 /components/com_wrapper/
 /components/index.html
 /configuration.php
+/htaccess.txt
 /images/banners/
 /images/index.html
 /images/joomla_black.gif
@@ -207,6 +208,7 @@
 /images/powered_by.png
 /images/sampledata/
 /includes/
+/installation/
 index.php
 joomla.xml
 /language/en-GB/en-GB.com_contact.ini
