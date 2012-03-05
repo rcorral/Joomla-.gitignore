@@ -323,7 +323,16 @@
 /language/en-GB/index.html
 /language/index.html
 /language/overrides/
-/libraries/
+/libraries/cms/
+/libraries/cms.php
+/libraries/import.php
+/libraries/index.html
+/libraries/joomla/
+/libraries/loader.php
+/libraries/phpmailer/
+/libraries/phputf8/
+/libraries/platform.php
+/libraries/simplepie/
 /LICENSE.txt
 /logs/
 /media/cms/
