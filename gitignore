@@ -10,6 +10,7 @@
 /administrator/components/com_cpanel/
 /administrator/components/com_finder/
 /administrator/components/com_installer/
+/administrator/components/com_joomlaupdate/
 /administrator/components/com_languages/
 /administrator/components/com_login/
 /administrator/components/com_media/
@@ -49,6 +50,8 @@
 /administrator/language/en-GB/en-GB.com_finder.sys.ini
 /administrator/language/en-GB/en-GB.com_installer.ini
 /administrator/language/en-GB/en-GB.com_installer.sys.ini
+/administrator/language/en-GB/en-GB.com_joomlaupdate.ini
+/administrator/language/en-GB/en-GB.com_joomlaupdate.sys.ini
 /administrator/language/en-GB/en-GB.com_languages.ini
 /administrator/language/en-GB/en-GB.com_languages.sys.ini
 /administrator/language/en-GB/en-GB.com_login.ini
@@ -366,6 +369,7 @@
 /media/contacts/
 /media/editors/
 /media/index.html
+/media/com_joomlaupdate/
 /media/mailto/
 /media/media/
 /media/mod_languages/
@@ -458,6 +462,7 @@
 /plugins/user/joomla/
 /plugins/user/profile/
 /README.txt
+/robots.txt
 /templates/atomic/
 /templates/beez_20/
 /templates/beez5/
