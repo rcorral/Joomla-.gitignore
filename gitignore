@@ -243,6 +243,7 @@
 /administrator/templates/hathor/
 /administrator/templates/index.html
 /administrator/templates/system/
+/build.xml
 /cache/
 /cli/finder_indexer.php
 /cli/garbagecron.php
