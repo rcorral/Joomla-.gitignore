@@ -246,6 +246,8 @@
 /administrator/templates/index.html
 /administrator/templates/isis/
 /administrator/templates/system/
+/bin/index.html
+/bin/keychain.php
 /build.xml
 /cache/
 /cli/deletefiles.php
